@@ -1,0 +1,50 @@
+Level 1
+Chars Typed: 10
+Errors Made: 0
+Total Correct Answer: 10
+Total Time Taken: 7 Seconds
+Level 1
+Chars Typed: 12
+Errors Made: 2
+Total Correct Answer: 10
+Total Time Taken: 8 Seconds
+Level 2
+Chars Typed: 11
+Errors Made: 1
+Total Correct Answer: 10
+Total Time Taken: 16 Seconds
+Level 1
+Chars Typed: 33
+Errors Made: 3
+Total Correct Answer: 30
+Total Time Taken: 23 Seconds
+Level 3
+Chars Typed: 30
+Errors Made: 0
+Total Correct Answer: 30
+Total Time Taken: 28 Seconds
+Level 1
+Chars Typed: 10
+Errors Made: 0
+Total Correct Answer: 10
+Total Time Taken: 19 Seconds
+Level 1
+Chars Typed: 10
+Errors Made: 0
+Total Correct Answer: 10
+Total Time Taken: 6 Seconds
+Level 1
+Chars Typed: 11
+Errors Made: 1
+Total Correct Answer: 10
+Total Time Taken: 8 Seconds
+Level 1
+Chars Typed: 10
+Errors Made: 0
+Total Correct Answer: 10
+Total Time Taken: 6 Seconds
+Level 5
+Chars Typed: 10
+Errors Made: 0
+Total Correct Answer: 10
+Total Time Taken: 9 Seconds
